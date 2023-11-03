@@ -1,0 +1,137 @@
+Date : 2023-11-02 11:52:41
+Directory : c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam
+Total : 90 files,  761852 codes, 670 comments, 3781 blanks, all 766303 lines
+
+Languages
++--------------+------------+------------+------------+------------+------------+
+| language     | files      | code       | comment    | blank      | total      |
++--------------+------------+------------+------------+------------+------------+
+| XML          |          2 |    757,122 |          0 |      3,129 |    760,251 |
+| Python       |         22 |      3,124 |        654 |        572 |      4,350 |
+| YAML         |         55 |      1,233 |          0 |         13 |      1,246 |
+| Markdown     |          1 |        331 |          2 |         65 |        398 |
+| Shell Script |         10 |         42 |         14 |          2 |         58 |
++--------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         90 |    761,852 |        670 |      3,781 |    766,303 |
+| . (Files)                                                                                      |          4 |        649 |          6 |         86 |        741 |
+| configs                                                                                        |         54 |      1,033 |          0 |         13 |      1,046 |
+| configs (Files)                                                                                |          2 |        233 |          0 |          2 |        235 |
+| configs\Apartment                                                                              |          2 |         80 |          0 |          1 |         81 |
+| configs\CoFusion                                                                               |          4 |         76 |          0 |          0 |         76 |
+| configs\Demo                                                                                   |          2 |         81 |          0 |          0 |         81 |
+| configs\Own                                                                                    |          2 |         49 |          0 |          0 |         49 |
+| configs\Replica                                                                                |         18 |        178 |          0 |          0 |        178 |
+| configs\ScanNet                                                                                |         16 |        160 |          0 |          3 |        163 |
+| configs\TUM_RGBD                                                                               |          8 |        176 |          0 |          7 |        183 |
+| pretrained                                                                                     |          2 |    757,122 |          0 |      3,129 |    760,251 |
+| scripts                                                                                        |         10 |         42 |         14 |          2 |         58 |
+| src                                                                                            |         20 |      3,006 |        650 |        551 |      4,207 |
+| src (Files)                                                                                    |          6 |      1,131 |        272 |        193 |      1,596 |
+| src\conv_onet                                                                                  |          4 |        265 |         74 |         53 |        392 |
+| src\conv_onet (Files)                                                                          |          2 |         26 |         10 |          6 |         42 |
+| src\conv_onet\models                                                                           |          2 |        239 |         64 |         47 |        350 |
+| src\tools                                                                                      |          5 |        659 |         75 |        138 |        872 |
+| src\utils                                                                                      |          5 |        951 |        229 |        167 |      1,347 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| filename                                                                                       | language     | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\README.md                                   | Markdown     |        331 |          2 |         65 |        398 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Apartment\apartment.yaml            | YAML         |         40 |          0 |          1 |         41 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Apartment\apartment_imap.yaml       | YAML         |         40 |          0 |          0 |         40 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\cofusion.yaml              | YAML         |         31 |          0 |          0 |         31 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\cofusion_imap.yaml         | YAML         |         31 |          0 |          0 |         31 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\room4.yaml                 | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\room4_imap.yaml            | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Demo\demo.yaml                      | YAML         |         41 |          0 |          0 |         41 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Demo\demo_imap.yaml                 | YAML         |         40 |          0 |          0 |         40 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Own\own.yaml                        | YAML         |         33 |          0 |          0 |         33 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Own\sample.yaml                     | YAML         |         16 |          0 |          0 |         16 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office0.yaml                | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office0_imap.yaml           | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office1.yaml                | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office1_imap.yaml           | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office2.yaml                | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office2_imap.yaml           | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office3.yaml                | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office3_imap.yaml           | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office4.yaml                | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office4_imap.yaml           | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\replica.yaml                | YAML         |         33 |          0 |          0 |         33 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\replica_imap.yaml           | YAML         |         33 |          0 |          0 |         33 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room0.yaml                  | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room0_imap.yaml             | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room1.yaml                  | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room1_imap.yaml             | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room2.yaml                  | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room2_imap.yaml             | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scannet.yaml                | YAML         |         31 |          0 |          0 |         31 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scannet_imap.yaml           | YAML         |         31 |          0 |          0 |         31 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0000.yaml              | YAML         |          7 |          0 |          1 |          8 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0000_imap.yaml         | YAML         |          7 |          0 |          2 |          9 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0059.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0059_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0106.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0106_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0169.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0169_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0181.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0181_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0207.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0207_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0472.yaml              | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0472_imap.yaml         | YAML         |          7 |          0 |          0 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg1_desk.yaml        | YAML         |         17 |          0 |          0 |         17 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg1_desk_imap.yaml   | YAML         |         17 |          0 |          0 |         17 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg2_xyz.yaml         | YAML         |         17 |          0 |          1 |         18 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg2_xyz_imap.yaml    | YAML         |         17 |          0 |          2 |         19 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg3_office.yaml      | YAML         |         16 |          0 |          1 |         17 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg3_office_imap.yaml | YAML         |         16 |          0 |          1 |         17 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\tum.yaml                   | YAML         |         38 |          0 |          1 |         39 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\tum_imap.yaml              | YAML         |         38 |          0 |          1 |         39 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\imap.yaml                           | YAML         |        117 |          0 |          1 |        118 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\nice_slam.yaml                      | YAML         |        116 |          0 |          1 |        117 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\environment.yaml                            | YAML         |        200 |          0 |          0 |        200 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\pretrained\coarse.pt                        | XML          |    324,200 |          0 |      1,353 |    325,553 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\pretrained\middle_fine.pt                   | XML          |    432,922 |          0 |      1,776 |    434,698 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\run.py                                      | Python       |         32 |          1 |         13 |         46 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_apartment.sh               | Shell Script |          4 |          2 |          1 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_cofusion.sh                | Shell Script |          4 |          0 |          0 |          4 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_cull_replica_mesh.sh       | Shell Script |          2 |          2 |          0 |          4 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_demo.sh                    | Shell Script |          4 |          2 |          0 |          6 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_open3d.sh                  | Shell Script |          4 |          0 |          0 |          4 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_replica.sh                 | Shell Script |          4 |          2 |          1 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_tum.sh                     | Shell Script |          8 |          0 |          0 |          8 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_apartment.sh           | Shell Script |          4 |          2 |          0 |          6 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_room1.sh               | Shell Script |          4 |          2 |          0 |          6 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_scene0000.sh           | Shell Script |          4 |          2 |          0 |          6 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\Mapper.py                               | Python       |        522 |         67 |         69 |        658 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\NICE_SLAM.py                            | Python       |        215 |         57 |         41 |        313 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\Tracker.py                              | Python       |        205 |         23 |         31 |        259 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\__init__.py                             | Python       |          0 |          0 |          1 |          1 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\common.py                               | Python       |        158 |         91 |         36 |        285 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\config.py                               | Python       |         31 |         34 |         15 |         80 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\__init__.py                   | Python       |          6 |          0 |          2 |          8 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\config.py                     | Python       |         20 |         10 |          4 |         34 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\models\__init__.py            | Python       |          5 |          1 |          1 |          7 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\models\decoder.py             | Python       |        234 |         63 |         46 |        343 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\cull_mesh.py                      | Python       |         65 |          1 |         11 |         77 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\eval_ate.py                       | Python       |        215 |         50 |         37 |        302 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\eval_recon.py                     | Python       |        174 |         19 |         39 |        232 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\prep_own_data.py                  | Python       |         42 |          1 |          8 |         51 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\viz.py                            | Python       |        163 |          4 |         43 |        210 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Logger.py                         | Python       |         24 |          5 |          7 |         36 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Mesher.py                         | Python       |        410 |        104 |         61 |        575 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Renderer.py                       | Python       |        184 |         77 |         36 |        297 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Visualizer.py                     | Python       |         82 |         18 |          8 |        108 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\datasets.py                       | Python       |        251 |         25 |         55 |        331 |
+| c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\visualizer.py                               | Python       |         86 |          3 |          8 |         97 |
+| Total                                                                                          |              |    761,852 |        670 |      3,781 |    766,303 |
++------------------------------------------------------------------------------------------------+--------------+------------+------------+------------+------------+

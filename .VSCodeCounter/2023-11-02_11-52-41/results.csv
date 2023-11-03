@@ -1,0 +1,92 @@
+"filename", "language", "Python", "YAML", "Markdown", "Shell Script", "XML", "comment", "blank", "total"
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\README.md", "Markdown", 0, 0, 331, 0, 0, 2, 65, 398
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Apartment\apartment.yaml", "YAML", 0, 40, 0, 0, 0, 0, 1, 41
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Apartment\apartment_imap.yaml", "YAML", 0, 40, 0, 0, 0, 0, 0, 40
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\cofusion.yaml", "YAML", 0, 31, 0, 0, 0, 0, 0, 31
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\cofusion_imap.yaml", "YAML", 0, 31, 0, 0, 0, 0, 0, 31
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\room4.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\CoFusion\room4_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Demo\demo.yaml", "YAML", 0, 41, 0, 0, 0, 0, 0, 41
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Demo\demo_imap.yaml", "YAML", 0, 40, 0, 0, 0, 0, 0, 40
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Own\own.yaml", "YAML", 0, 33, 0, 0, 0, 0, 0, 33
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Own\sample.yaml", "YAML", 0, 16, 0, 0, 0, 0, 0, 16
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office0.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office0_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office1.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office1_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office2.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office2_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office3.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office3_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office4.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\office4_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\replica.yaml", "YAML", 0, 33, 0, 0, 0, 0, 0, 33
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\replica_imap.yaml", "YAML", 0, 33, 0, 0, 0, 0, 0, 33
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room0.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room0_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room1.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room1_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room2.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\Replica\room2_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scannet.yaml", "YAML", 0, 31, 0, 0, 0, 0, 0, 31
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scannet_imap.yaml", "YAML", 0, 31, 0, 0, 0, 0, 0, 31
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0000.yaml", "YAML", 0, 7, 0, 0, 0, 0, 1, 8
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0000_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 2, 9
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0059.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0059_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0106.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0106_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0169.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0169_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0181.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0181_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0207.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0207_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0472.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\ScanNet\scene0472_imap.yaml", "YAML", 0, 7, 0, 0, 0, 0, 0, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg1_desk.yaml", "YAML", 0, 17, 0, 0, 0, 0, 0, 17
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg1_desk_imap.yaml", "YAML", 0, 17, 0, 0, 0, 0, 0, 17
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg2_xyz.yaml", "YAML", 0, 17, 0, 0, 0, 0, 1, 18
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg2_xyz_imap.yaml", "YAML", 0, 17, 0, 0, 0, 0, 2, 19
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg3_office.yaml", "YAML", 0, 16, 0, 0, 0, 0, 1, 17
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\freiburg3_office_imap.yaml", "YAML", 0, 16, 0, 0, 0, 0, 1, 17
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\tum.yaml", "YAML", 0, 38, 0, 0, 0, 0, 1, 39
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\TUM_RGBD\tum_imap.yaml", "YAML", 0, 38, 0, 0, 0, 0, 1, 39
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\imap.yaml", "YAML", 0, 117, 0, 0, 0, 0, 1, 118
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\configs\nice_slam.yaml", "YAML", 0, 116, 0, 0, 0, 0, 1, 117
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\environment.yaml", "YAML", 0, 200, 0, 0, 0, 0, 0, 200
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\pretrained\coarse.pt", "XML", 0, 0, 0, 0, 324200, 0, 1353, 325553
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\pretrained\middle_fine.pt", "XML", 0, 0, 0, 0, 432922, 0, 1776, 434698
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\run.py", "Python", 32, 0, 0, 0, 0, 1, 13, 46
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_apartment.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 1, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_cofusion.sh", "Shell Script", 0, 0, 0, 4, 0, 0, 0, 4
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_cull_replica_mesh.sh", "Shell Script", 0, 0, 0, 2, 0, 2, 0, 4
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_demo.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 0, 6
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_open3d.sh", "Shell Script", 0, 0, 0, 4, 0, 0, 0, 4
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_replica.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 1, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_tum.sh", "Shell Script", 0, 0, 0, 8, 0, 0, 0, 8
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_apartment.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 0, 6
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_room1.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 0, 6
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\scripts\download_vis_scene0000.sh", "Shell Script", 0, 0, 0, 4, 0, 2, 0, 6
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\Mapper.py", "Python", 522, 0, 0, 0, 0, 67, 69, 658
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\NICE_SLAM.py", "Python", 215, 0, 0, 0, 0, 57, 41, 313
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\Tracker.py", "Python", 205, 0, 0, 0, 0, 23, 31, 259
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\common.py", "Python", 158, 0, 0, 0, 0, 91, 36, 285
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\config.py", "Python", 31, 0, 0, 0, 0, 34, 15, 80
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\__init__.py", "Python", 6, 0, 0, 0, 0, 0, 2, 8
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\config.py", "Python", 20, 0, 0, 0, 0, 10, 4, 34
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\models\__init__.py", "Python", 5, 0, 0, 0, 0, 1, 1, 7
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\conv_onet\models\decoder.py", "Python", 234, 0, 0, 0, 0, 63, 46, 343
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\cull_mesh.py", "Python", 65, 0, 0, 0, 0, 1, 11, 77
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\eval_ate.py", "Python", 215, 0, 0, 0, 0, 50, 37, 302
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\eval_recon.py", "Python", 174, 0, 0, 0, 0, 19, 39, 232
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\prep_own_data.py", "Python", 42, 0, 0, 0, 0, 1, 8, 51
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\tools\viz.py", "Python", 163, 0, 0, 0, 0, 4, 43, 210
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Logger.py", "Python", 24, 0, 0, 0, 0, 5, 7, 36
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Mesher.py", "Python", 410, 0, 0, 0, 0, 104, 61, 575
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Renderer.py", "Python", 184, 0, 0, 0, 0, 77, 36, 297
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\Visualizer.py", "Python", 82, 0, 0, 0, 0, 18, 8, 108
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\src\utils\datasets.py", "Python", 251, 0, 0, 0, 0, 25, 55, 331
+"c:\Users\admin\OneDrive - hust.edu.cn\代码\nice-slam\visualizer.py", "Python", 86, 0, 0, 0, 0, 3, 8, 97
+"Total", "-", 3124, 1233, 331, 42, 757122, 670, 3781, 766303

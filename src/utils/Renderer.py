@@ -68,7 +68,7 @@ class Renderer(object):
             c (dict): feature grids.
             decoders (nn.module): decoders.
             rays_d (tensor, N*3): rays direction.
-            rays_o (tensor, N*3): rays origin.
+            rays_o (tensor, N*3): rays origin.  #rays_o是相机在world坐标系的坐标
             device (str): device name to compute on.
             stage (str): query stage.
             gt_depth (tensor, optional): sensor depth image. Defaults to None.
@@ -91,13 +91,13 @@ class Renderer(object):
             N_surface = 0
             near = 0.01
         else:
-            gt_depth = gt_depth.reshape(-1, 1)
-            gt_depth_samples = gt_depth.repeat(1, N_samples)
+            gt_depth = gt_depth.reshape(-1, 1)  # 将 gt_depth 张量的形状修改为一个列向量
+            gt_depth_samples = gt_depth.repeat(1, N_samples) #gt_depth 的每个元素被复制 N_samples 次，形成了一个新的张量
             near = gt_depth_samples*0.01
 
         with torch.no_grad():
-            det_rays_o = rays_o.clone().detach().unsqueeze(-1)  # (N, 3, 1)
-            det_rays_d = rays_d.clone().detach().unsqueeze(-1)  # (N, 3, 1)
+            det_rays_o = rays_o.clone().detach().unsqueeze(-1)  # (N, 3, 1)->unsqueeze(-1)插入最后一维
+            det_rays_d = rays_d.clone().detach().unsqueeze(-1)  # (N, 3, 1)  detach创建张量的一个共享数据的副本，但不在执行梯度计算
             t = (self.bound.unsqueeze(0).to(device) -
                  det_rays_o)/det_rays_d  # (N, 3, 2)
             far_bb, _ = torch.min(torch.max(t, dim=2)[0], dim=1)

@@ -81,7 +81,7 @@ def get_rays_from_uv(i, j, c2w, H, W, fx, fy, cx, cy, device):
 
     dirs = torch.stack(
         [(i-cx)/fx, -(j-cy)/fy, -torch.ones_like(i)], -1).to(device)
-    dirs = dirs.reshape(-1, 1, 3)
+    dirs = dirs.reshape(-1, 1, 3)    #(n 1 3)
     # Rotate ray directions from camera frame to the world frame
     # dot product, equals to: [c2w.dot(dir) for dir in dirs]
     rays_d = torch.sum(dirs * c2w[:3, :3], -1)
@@ -129,7 +129,7 @@ def get_samples(H0, H1, W0, W1, n, H, W, fx, fy, cx, cy, c2w, depth, color, devi
 
     """
     i, j, sample_depth, sample_color = get_sample_uv(
-        H0, H1, W0, W1, n, depth, color, device=device)
+        H0, H1, W0, W1, n, depth, color, device=device)   # 在图像ROI范围内采样n个点的图像坐标
     rays_o, rays_d = get_rays_from_uv(i, j, c2w, H, W, fx, fy, cx, cy, device)
     return rays_o, rays_d, sample_depth, sample_color
 
